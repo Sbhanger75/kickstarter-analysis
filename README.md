@@ -8,5 +8,7 @@ https://github.com/Sbhanger75/kickstarter-analysis/blob/main/Theater_Outcomes_vs
 The least busy and successful and successful time was at the end of the year.  A couple factors for this could be the holiday season or the weather.  Second, we looked at the outcomes based on the monetary ask for each play—organized by bands of $5000.00.  The vast majority of plays (with the highest rate of success) cost between zero and $5000.00 to produce.  Small productions seem to be the most popular and successful.
 Two conclusions we can draw from our theater outcomes by launch date are:  1)  Spring and Summer months seem to be most popular for plays and 2)  overall all Louise was successful with her productions with the exception of the month of December.
 Regarding the outcomes based on goals, we can glean from the following chart that the most successful plays are the ones that cost the least to produce.
+
+https://github.com/Sbhanger75/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
  
 In conclusion we can see Louise’s efforts in the theater space were not in vain.
